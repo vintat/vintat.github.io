@@ -19,8 +19,14 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 ## PORTFOLIO OF WORKS
 
+### Consumer Watchdog: [Consumers Association of Singapore](https://www.case.org.sg/)
+> [Fuel Kaki](https://fuelkaki.sg/home) is fuel price comparison responsive website for motorist in Singapore.
+
+> [Price Kaki](https://pricekaki.sg) mobile app to check the price of groceries and find out about available promotions. Available in AppStore, GooglePlay, and HUAWEI AppGallery.
+
+
 ### Travel Agency: [Chan Brothers Travel](https://www.chanbrothers.com/)
-> Worked as assistant manager (business technology) to deliver [+en Travel Envoys](https://www.ttgasia.com/2018/10/10/chan-brothers-builds-and-grows-platform-for-independent-travel-agents/) programme, a network of independent travel agents with curated personalised experience.
+> Worked as technical project manager to deliver [+en Travel Envoys](https://www.ttgasia.com/2018/10/10/chan-brothers-builds-and-grows-platform-for-independent-travel-agents/) start-up programme, a network of independent travel agents with curated personalised experience.
 
 
 ### FinTech Agency: [Liquid Group](https://liquidpaygroup.com/)
@@ -31,7 +37,7 @@ When he's not pushing automation codes, he enjoys working out because staying he
 > Worked as part of IT department of New Shan Travel to secure online transactions using 3DS, handle dispute resolution, and revitalize legacy systems.
 
 
-### Software Company: [Forest Concepts](https://www.forecepts.com)
+### Software Agency: [Forest Concepts](https://www.forecepts.com)
 > Online ordering and payment systems for [BBQ Wholesale Centre](https://www.bbqwholesale.com/). It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market. 
 
 > Flight and hotel booking engine for [Sabre Corporation](https://www.sabre.com/). Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region. 
