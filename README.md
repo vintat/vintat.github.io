@@ -14,16 +14,23 @@ He is currently working as a Technical Project Manager (Tech Lead) for **[Price 
 
 He has extensive technical work experience in a variety of industries. Travel service, payment service, and e-commerce domains are some examples.
 
-When he's not automating redundant activities, he enjoys working out because staying healthy is a way of life for him.  
+When he's not pushing automation codes, he enjoys working out because staying healthy is a way of life for him.  
 
 
-## PORTFOLIOS OF WORK
-### [Forest Concepts](https://www.forecepts.com)
-> [BBQ Wholesale Centre](https://www.bbqwholesale.com/) is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore. 
-> [] 
-LINK LINK
+## PORTFOLIO OF WORKS
+
+### FinTech Agency: Liquid Group
+> Core QR-payment solutions for [Liquid Pay](https://liquidpaygroup.com/) e-money app connecting both merchants and consumers.
 
 
+### Travel Agency: [New Shan Travel](https://www.newshan.com/)
+> Worked as part of IT department of New Shan Travel to secure online transactions using 3DS, handle dispute resolution, and revitalize legacy systems.
+
+
+### Software Company: [Forest Concepts](https://www.forecepts.com)
+> Online ordering and payment systems for [BBQ Wholesale Centre](https://www.bbqwholesale.com/). It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market. 
+> Flight and hotel booking engine for [Sabre Corporation](https://www.sabre.com/). Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region.
+> Inventory management of [Mountain Torq](https://www.mountaintorq.com). This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
 
 
 ## AWARDS & RECOGNITION
