@@ -32,8 +32,8 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 
 ### Software Company: [Forest Concepts](https://www.forecepts.com)
-> Online ordering and payment systems for [BBQ Wholesale Centre](https://www.bbqwholesale.com/). It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market. 
-> Flight and hotel booking engine for [Sabre Corporation](https://www.sabre.com/). Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region.
+> Online ordering and payment systems for [BBQ Wholesale Centre](https://www.bbqwholesale.com/). It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market.   
+> Flight and hotel booking engine for [Sabre Corporation](https://www.sabre.com/). Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region.  
 > Inventory management of [Mountain Torq](https://www.mountaintorq.com). This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
 
 
