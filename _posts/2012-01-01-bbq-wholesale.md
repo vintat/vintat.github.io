@@ -1,5 +1,5 @@
 layout: post
-title: " e-POS for BBQ Wholesale Centre"
+title: "BBQ"
 date: 2012-01-01 00:00:00 -0000
 categories: Commissioned F&B
 
