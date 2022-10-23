@@ -4,7 +4,7 @@
 
 ## OVERVIEW
 
-Kelvin is highly motivated by sense of fulfillment in his career. His bespoke automation tools halves operating cost and time.
+Kelvin is highly motivated by sense of fulfillment in his career. His works span across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
 
 After earning his Hons Degree in Computer Science from University of Malaya [UM], he started working as Web Programmer in local software development company in Singapore, **[Forest Concepts](https://www.forecepts.com/)**. 
 
@@ -18,9 +18,12 @@ When he's not automating redundant activities, he enjoys working out because sta
 
 
 ## PORTFOLIOS OF WORK
-### **Software House Agency: Forest Concepts (Year 2011 - Year 2014)**
->. [BBQ Wholesale Centre](https://www.bbqwholesale.com/) is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore
-Photos: 
+### [Forest Concepts](https://www.forecepts.com)
+> [BBQ Wholesale Centre](https://www.bbqwholesale.com/) is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore. 
+> [] 
+LINK LINK
+
+
 
 
 ## AWARDS & RECOGNITION
