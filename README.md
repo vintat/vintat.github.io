@@ -17,12 +17,15 @@ He has extensive technical work experience in a variety of industries. Travel se
 When he's not automating redundant activities, he enjoys working out because staying healthy is a way of life for him.  
 
 
-## WORKS
+## PORTFOLIOS OF WORK
+### **Software House Agency: Forest Concepts (Year 2011 - Year 2014)**
+>. [BBQ Wholesale Centre](https://www.bbqwholesale.com/) is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore
+Photos: 
 
 
 ## AWARDS & RECOGNITION
 
-Kelvin is proud to be recognized by some of the most important and influential organizations around the world.   
+Kelvin is proud to be recognized by some of the most important and influential organizations around the world. The following list illustrates all self-sponsored training and courses attended.   
 
 ### **Year 2022**
 <img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150">   
