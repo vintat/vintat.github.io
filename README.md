@@ -19,8 +19,12 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 ## PORTFOLIO OF WORKS
 
-### FinTech Agency: Liquid Group
-> Core QR-payment solutions for [Liquid Pay](https://liquidpaygroup.com/) e-money app connecting both merchants and consumers.
+### Travel Agency: [Chan Brothers Travel](https://www.chanbrothers.com/)
+> Worked as assistant manager (business technology) to deliver [+en Travel Envoys](https://www.ttgasia.com/2018/10/10/chan-brothers-builds-and-grows-platform-for-independent-travel-agents/) programme.
+
+
+### FinTech Agency: [Liquid Group](https://liquidpaygroup.com/)
+> Core payment API developer for [Liquid Pay](https://liquidpaygroup.com/) mobile apps enhancing payment experience between merchants and consumers.
 
 
 ### Travel Agency: [New Shan Travel](https://www.newshan.com/)
