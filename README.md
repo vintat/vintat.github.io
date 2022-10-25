@@ -108,4 +108,4 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
 
 
 ## TRADEMARK DISCLAIMER
-All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement. This website uses cookies. By using it, you agree to our privacy policy.
