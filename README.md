@@ -19,11 +19,15 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 ## PORTFOLIO OF WORKS
 
+These are particularly interesting projects that he has/had worked on:
+
 ### Consumer Watchdog: [Consumers Association of Singapore](https://www.case.org.sg/)
 > [Fuel Kaki](https://fuelkaki.sg/home) is fuel price comparison responsive website for motorist in Singapore.
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666690907/omnisnippet6371/fuelkaki_web_20221025_c6re5k.jpg' />
+<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666690907/omnisnippet6371/fuelkaki_web_20221025_c6re5k.jpg' alt='Fuel Kaki'/>
 
-> [Price Kaki](https://pricekaki.sg) mobile app to check the price of groceries and find out about available promotions. Available in AppStore, GooglePlay, and HUAWEI AppGallery.
+
+> [Price Kaki](https://pricekaki.sg) mobile app to check the price of groceries and find out about available promotions.  
+<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666692242/omnisnippet6371/pricekaki_app_20221025_gvsmiv.jpg' alt='Price Kaki' />
 
 
 ### Travel Agency: [Chan Brothers Travel](https://www.chanbrothers.com/)
@@ -31,11 +35,11 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 
 ### FinTech Agency: [Liquid Group](https://liquidpaygroup.com/)
-> Core payment API developer for [Liquid Pay](https://liquidpaygroup.com/) mobile apps enhancing payment experience between merchants and consumers.
+> Core payment API developer for [Liquid Pay](https://liquidpaygroup.com/) mobile apps enhancing payment experience & security between merchants and consumers.
 
 
 ### Travel Agency: [New Shan Travel](https://www.newshan.com/)
-> Worked as part of IT department of New Shan Travel to secure online transactions using 3DS, handle dispute resolution, and revitalize legacy systems.
+> Worked as part of IT department of New Shan Travel to secure online payment gateway using 3DS, handle dispute resolution, and revitalize legacy systems.
 
 
 ### Software Agency: [Forest Concepts](https://www.forecepts.com)
