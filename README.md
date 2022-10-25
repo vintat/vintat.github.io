@@ -38,10 +38,9 @@ These are particularly interesting projects that he has/had worked on:
 
 ### FinTech Company: [Liquid Group](https://liquidpaygroup.com/)
 > Core payment API developer for **[Liquid Pay](https://liquidpaygroup.com/)** mobile apps enhancing payment experience & security between merchants and consumers.
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666692795/omnisnippet6371/liquid_merchant_20221025_eoxifa.png' alt='Liquid Pay'/>
 
 > Seamless switch of **[Spinelli Friends' Membership Card](https://spinellicoffee.com/)** from physical to digital version.
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666693132/omnisnippet6371/spinelli_card_20221025_ucoyi0.jpg' alt='Spinelli Friends Card'/>
+<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666693132/omnisnippet6371/spinelli_card_20221025_ucoyi0.jpg' alt='Spinelli Friends Card' width='400'/>
 
 
 ### Travel Agency: [New Shan Travel](https://www.newshan.com/)
