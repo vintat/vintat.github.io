@@ -1,4 +1,4 @@
-# ~~KEL~~**vintat**
+# ~~KEL~~vintat
 
 ![KLVNT Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1665045053/undaunted5675/railway_spinelli_works_hehiwu.jpg "PROFILE PHOTO")
 
@@ -14,7 +14,7 @@ He is currently working as a Technical Project Manager (Tech Lead) for **[Price 
 
 He has extensive technical work experience in a variety of industries. Travel service, payment service, and e-commerce domains are some examples.
 
-When he's not pushing automation codes, he enjoys working out because staying healthy is a way of life for him.  
+When he's not pushing automation codes, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue `#000080`. 
 
 
 ## PORTFOLIO OF WORKS
