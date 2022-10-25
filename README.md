@@ -2,6 +2,7 @@
 
 ![KLVNT Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1665045053/undaunted5675/railway_spinelli_works_hehiwu.jpg "PROFILE PHOTO")
 
+
 ## OVERVIEW
 
 Kelvin is highly motivated by sense of fulfillment in his career. His works span across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
@@ -15,6 +16,7 @@ He is currently working as a Technical Project Manager (Tech Lead) for **[Price 
 He has extensive technical work experience in a variety of industries. Travel service, payment service, and e-commerce domains are some examples.
 
 When he's not pushing automation codes, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue `#000080`. 
+
 
 
 ## PORTFOLIO OF WORKS
@@ -34,7 +36,7 @@ These are particularly interesting projects that he has/had worked on:
 > Worked as technical project manager to deliver **[+en Travel Envoys](https://www.ttgasia.com/2018/10/10/chan-brothers-builds-and-grows-platform-for-independent-travel-agents/)** start-up programme, a network of independent travel agents with curated personalised experience.
 
 
-### FinTech Agency: [Liquid Group](https://liquidpaygroup.com/)
+### FinTech Company: [Liquid Group](https://liquidpaygroup.com/)
 > Core payment API developer for **[Liquid Pay](https://liquidpaygroup.com/)** mobile apps enhancing payment experience & security between merchants and consumers.
 <img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666692795/omnisnippet6371/liquid_merchant_20221025_eoxifa.png' alt='Liquid Pay'/>
 
@@ -46,12 +48,13 @@ These are particularly interesting projects that he has/had worked on:
 > Worked as part of IT department of **New Shan Travel** organization to secure online payment gateway using 3DS, handle dispute resolution, and revitalize legacy systems.
 
 
-### Software Agency: [Forest Concepts](https://www.forecepts.com)
+### Software House: [Forest Concepts](https://www.forecepts.com)
 > Online ordering and payment systems for **[BBQ Wholesale Centre](https://www.bbqwholesale.com/)**. It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market. 
 
 > Flight and hotel booking engine for **[Sabre Corporation](https://www.sabre.com/)**. Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region. 
 
 > Inventory management of **[Mountain Torq](https://www.mountaintorq.com)**. This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
+
 
 
 ## AWARDS & RECOGNITION
@@ -99,5 +102,11 @@ ScrumMaster Certified by *Scrum Alliance*
 Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
 
 
+
 ## CONTACT
 <kelvin_tan@outlook.com>    
+
+
+
+## TRADEMARK DISCLAIMER
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.
