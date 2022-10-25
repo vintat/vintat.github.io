@@ -25,11 +25,8 @@ These are particularly interesting projects that he has/had worked on:
 
 ### Consumer Watchdog: [Consumers Association of Singapore](https://www.case.org.sg/)
 > **[Fuel Kaki](https://fuelkaki.sg/home)** is fuel price comparison responsive website for motorist in Singapore.
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666690907/omnisnippet6371/fuelkaki_web_20221025_c6re5k.jpg' alt='Fuel Kaki'/>
-
 
 > **[Price Kaki](https://pricekaki.sg/)** mobile app to check the price of groceries and find out about available promotions.  
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666692242/omnisnippet6371/pricekaki_app_20221025_gvsmiv.jpg' alt='Price Kaki' />
 
 
 ### Travel Agency: [Chan Brothers Travel](https://www.chanbrothers.com/)
@@ -40,7 +37,6 @@ These are particularly interesting projects that he has/had worked on:
 > Core payment API developer for **[Liquid Pay](https://liquidpaygroup.com/)** mobile apps enhancing payment experience & security between merchants and consumers.
 
 > Seamless switch of **[Spinelli Friends' Membership Card](https://spinellicoffee.com/)** from physical to digital version.
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666693132/omnisnippet6371/spinelli_card_20221025_ucoyi0.jpg' alt='Spinelli Friends Card' width='400'/>
 
 
 ### Travel Agency: [New Shan Travel](https://www.newshan.com/)
