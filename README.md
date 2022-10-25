@@ -1,4 +1,4 @@
-# VIN TAT
+# KELvintat
 
 ![KLVNT Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1665045053/undaunted5675/railway_spinelli_works_hehiwu.jpg "PROFILE PHOTO")
 
@@ -21,7 +21,7 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 ### Consumer Watchdog: [Consumers Association of Singapore](https://www.case.org.sg/)
 > [Fuel Kaki](https://fuelkaki.sg/home) is fuel price comparison responsive website for motorist in Singapore.
-<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666690907/omnisnippet6371/fuelkaki_web_20221025_c6re5k.jpg' width='500'/>
+<img src='https://res.cloudinary.com/dxoynol2n/image/upload/v1666690907/omnisnippet6371/fuelkaki_web_20221025_c6re5k.jpg' />
 
 > [Price Kaki](https://pricekaki.sg) mobile app to check the price of groceries and find out about available promotions. Available in AppStore, GooglePlay, and HUAWEI AppGallery.
 
