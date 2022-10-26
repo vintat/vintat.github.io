@@ -11,7 +11,7 @@ After earning his Hons Degree in Computer Science from University of Malaya [UM]
 
 Afterwards, he has a stint as API Software Engineer for mobile payment service at **[Liquid Pay](https://liquidpaygroup.com/)** and, subsequently, Assistant Technology Manager at **[Chan Brothers Travel](https://www.chanbrothers.com/)** prior to Covid-19 pandemic. 
 
-He is currently working as a Technical Project Manager (Tech Lead) for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
+He is currently working as a Technical Team Lead for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
 
 He has extensive technical work experience in a variety of industries. Travel service, payment service, and e-commerce domains are some examples.
 
