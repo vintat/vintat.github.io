@@ -5,15 +5,13 @@
 
 ## OVERVIEW
 
-Kelvin is highly motivated by sense of fulfillment in his career. His works span across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
+Kelvin is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
 
 After earning his Hons Degree in Computer Science from University of Malaya [UM], he started working as Web Programmer in local software development company in Singapore, **[Forest Concepts](https://www.forecepts.com/)**. 
 
 Afterwards, he has a stint as API Software Engineer for mobile payment service at **[Liquid Pay](https://liquidpaygroup.com/)** and, subsequently, Assistant Technology Manager at **[Chan Brothers Travel](https://www.chanbrothers.com/)** prior to Covid-19 pandemic. 
 
 He is currently working as a Technical Team Lead for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
-
-He has extensive technical work experience in a variety of industries. Travel service, payment service, and e-commerce domains are some examples.
 
 When he's not pushing automation codes, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue `#000080`. 
 
