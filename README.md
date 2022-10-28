@@ -52,7 +52,7 @@ These are particularly interesting projects that he has/had worked on:
 
 ## AWARDS & RECOGNITION
 
-Kelvin is proud to be recognized by some of the most important and influential organizations around the world. The following list illustrates all self-sponsored training and courses attended.   
+Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his [badges](https://www.credly.com/users/vintat/badges).
 
 ### **Year 2022**
 <img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
