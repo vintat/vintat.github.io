@@ -52,7 +52,7 @@ These are particularly interesting projects that he has/had worked on:
 
 ## AWARDS & RECOGNITION
 
-Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his current badges at [credly.com](https://www.credly.com/users/vintat/badges).
+Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his current verified abilities at [credly.com](https://www.credly.com/users/vintat/badges)
 
 ### **Year 2022**
 <img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
@@ -102,4 +102,4 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
 
 
 ## TRADEMARK DISCLAIMER
-All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement. This website uses cookies. By using it, you agree to our privacy policy.
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement. This website uses cookies.
