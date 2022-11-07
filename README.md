@@ -21,7 +21,7 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 These are particularly interesting projects that he has/had worked on:
 
-### Consumer Watchdog: [Consumers Association of Singapore](https://www.case.org.sg/)
+### Consumer Watchdog: [CASE](https://www.case.org.sg/)
 > **[Fuel Kaki](https://fuelkaki.sg/home)** is fuel price comparison responsive website for motorist in Singapore.
 
 > **[Price Kaki](https://pricekaki.sg/)** mobile app to check the price of groceries and find out about available promotions.  
@@ -39,6 +39,8 @@ These are particularly interesting projects that he has/had worked on:
 
 ### Travel Agency: [New Shan Travel](https://www.newshan.com/)
 > Worked as part of IT department of **New Shan Travel** organization to secure online payment gateway using 3DS, handle dispute resolution, and revitalize legacy systems.
+
+> API integration project with 3rd party hoteliers. Namely, HotelBeds, DOTW, and Expedia.
 
 
 ### Software House: [Forest Concepts](https://www.forecepts.com)
