@@ -25,13 +25,17 @@ These are particularly interesting projects that he has/had worked on:
 > <p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
 >
 > <strong>Scope of Services:</strong>
-> <p>**Hardening on User Access Control with Least Privilege Security Principle**<br/>
-> As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user group level & access management of both Price Kaki as well as Fuel Kaki CMS portals.</p>
+> <p><strong>Hardening on Users Access Control with Least Privilege Security Principle</strong><br/>
+> As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user's group level & access management of both Price Kaki & Fuel Kaki's CMS.</p>
+> <p><strong>Implementation of Self-service Account Deactivation</strong><br/>
+> I have proposed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to securely delete their personal data and, consequently, no retention of user's personal data in the server.<br/>
+> By taking cost saving into consideration the constrainst, I had defined & scope out the necessary functionality, mockup design, operating workflow, and development timeline.<br/>
+> After the budget proposal was accepted, I had prepared progress checkpoints to safeguard timely delivery and quality check the final deliverables. No major hiccups and this enhancement could completed within initial budget and schedule.</p>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
-  >   <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
-  >   <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
+  > <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+  > <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 
