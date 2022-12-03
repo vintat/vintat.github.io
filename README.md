@@ -75,8 +75,8 @@ These are particularly interesting projects that he has/had worked on:
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
->        <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
->        <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
+>        <li><strong>Fuel Kaki</strong> (<www.fuelkaki.sg>) is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+>        <li><strong>Price Kaki</strong> (<www.pricekaki.sg>) mobile app to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 
