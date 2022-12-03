@@ -24,14 +24,14 @@ These are particularly interesting projects that he has/had worked on:
 > ### [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
 >
-> **Scope of Services:**
+> <strong>Scope of Services:</strong>
 > <p>**Hardening on User Access Control with Least Privilege Security Principle**<br/>
 > As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user group level & access management of both Price Kaki as well as Fuel Kaki CMS portals.</p>
 > 
-> **Scope of Products:**
+> <strong>Scope of Products:</strong>
 > <ol>
->   <li>[Fuel Kaki](https://fuelkaki.sg/home) is fuel price comparison responsive website for motorist in Singapore.</li>
->   <li>[Price Kaki](https://pricekaki.sg/) mobile app to check and compare the price of groceries items in Singapore.</li>
+  >   <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+  >   <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 
