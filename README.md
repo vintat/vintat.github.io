@@ -4,7 +4,6 @@
 
 
 ## OVERVIEW
-
 Kelvin is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
 
 After earning his Hons Degree in Computer Science from University of Malaya [UM], he started working as Web Programmer in local software development company in Singapore, **[Forest Concepts](https://www.forecepts.com/)**. 
@@ -14,10 +13,11 @@ Afterwards, he has a stint as API Software Engineer for mobile payment service a
 He is currently working as a Technical Team Lead for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
 
 When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue. 
-<br/><br/><br/>
-## AWARDS & RECOGNITION
 
-Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his current verified abilities at [credly.com](https://www.credly.com/users/vintat/badges)
+---
+
+## AWARDS & RECOGNITION
+Kelvin is proud to be recognized by some of the most important and influential organizations around the world:
 
 ### **Year 2022**
 <img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
@@ -58,7 +58,8 @@ ScrumMaster Certified by *Scrum Alliance*
 
 ### **Year 2010**
 Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
-<br/><br/><br/>
+
+---
 
 ## PORTFOLIO OF WORKS
 These are particularly interesting projects that he has/had worked on:
@@ -75,8 +76,8 @@ These are particularly interesting projects that he has/had worked on:
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
->        <li><strong>Fuel Kaki</strong> (<www.fuelkaki.sg>) is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
->        <li><strong>Price Kaki</strong> (<www.pricekaki.sg>) mobile app to check, track, and compare grocery prices in Singapore.</li>
+>        <li>[Fuel Kaki](https://www.fuelkaki.sg) is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+>        <li>Price Kaki](https://www.pricekaki.sg) mobile app is dedicated to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 ### [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
@@ -98,11 +99,11 @@ These are particularly interesting projects that he has/had worked on:
 > Flight and hotel booking engine for **[Sabre Corporation](https://www.sabre.com/)**. Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region. 
 
 > Inventory management of **[Mountain Torq](https://www.mountaintorq.com)**. This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
-<br/><br/><br/>
+
+---
 
 ## CONTACT
 <kelvin_tan@outlook.com>    
-<br/><br/><br/>
 
 ---
 
