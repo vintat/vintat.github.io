@@ -13,7 +13,7 @@ Afterwards, he has a stint as API Software Engineer for mobile payment service a
 
 He is currently working as a Technical Team Lead for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
 
-When he's not pushing automation codes, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue `#000080`. 
+When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue `#000080`. 
 
 
 
@@ -21,17 +21,18 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 These are particularly interesting projects that he has/had worked on:
 
-### [CASE](https://www.case.org.sg/) : Non-profit Organization
-<p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
-
-#### Scope of Services:
-<p>**Hardening on User Access Control with Least Privilege Security Principle**
-As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user group level & access management of both Price Kaki as well as Fuel Kaki CMS portals.</p>
-
-####Scope of Products:
-> **[Fuel Kaki](https://fuelkaki.sg/home)** is fuel price comparison responsive website for motorist in Singapore.
-
-> **[Price Kaki](https://pricekaki.sg/)** mobile app to check the price of groceries and find out about available promotions.  
+> ### [CASE](https://www.case.org.sg/) : Non-profit Organization
+> <p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
+>
+> **Scope of Services:**
+> <p>**Hardening on User Access Control with Least Privilege Security Principle**<br/>
+> As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user group level & access management of both Price Kaki as well as Fuel Kaki CMS portals.</p>
+> 
+> **Scope of Products:**
+> <ol>
+>   <li>[Fuel Kaki](https://fuelkaki.sg/home) is fuel price comparison responsive website for motorist in Singapore.</li>
+>   <li>[Price Kaki](https://pricekaki.sg/) mobile app to check and compare the price of groceries items in Singapore.</li>
+> </ol>
 
 
 ### [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
