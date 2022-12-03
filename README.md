@@ -64,19 +64,19 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 These are particularly interesting projects that he has/had worked on:
 
 ## [CASE](https://www.case.org.sg/) : Non-profit Organization
-> <strong>Scope of Services:</strong>
+> <strong>Consulting Services:</strong>
 > <ol>
->       <li><strong>Improved Security with Least Privilege Principle</strong>. Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This is required to manage group membership and permissions across interdisciplinary teams more efficiently.</li>
->       <li><strong>Self-service Account Deactivation</strong>. Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete personal data securely.</li>
->       <li><strong>Optimized the B2B Partner Onboarding Process</strong>. Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. Based on his recommendations, these API functions have been compiled into an easy-to-navigate online document to ease future integration & promote continuous improvements.</li>
->       <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>. Two read replica database servers were newly configured to avoid single point of failure during traffic spikes. Consequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
->       <li><strong>Centralized Online Dashboard</strong>. Developed and published online dashboard using Power BI tool. Thus, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
+>  <li><strong>Improved Security with Least Privilege Principle</strong>. Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This is required to manage group membership and permissions across interdisciplinary teams more efficiently.</li>
+>  <li><strong>Self-service Account Deactivation</strong>. Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete personal data securely.</li>
+>  <li><strong>Optimized the B2B Partner Onboarding Process</strong>. Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. Based on his recommendations, these API functions have been compiled into an easy-to-navigate online document to ease future integration & promote continuous improvements.</li>
+>  <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>. Two read replica database servers were newly configured to avoid single point of failure during traffic spikes. Consequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
+>  <li><strong>Centralized Online Dashboard</strong>. Developed and published online dashboard using Power BI tool. Thus, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
 > </ol>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
->        <li><a href="https://www.fuelkaki.sg" target="_blank">Fuel Kaki</a> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
->        <li><a href="https://www.pricekaki.sg" target="_blank">Price Kaki</a> mobile app is dedicated to check, track, and compare grocery prices in Singapore.</li>
+>  <li><a href="https://www.fuelkaki.sg" target="_blank">Fuel Kaki</a> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+>  <li><a href="https://www.pricekaki.sg" target="_blank">Price Kaki</a> mobile app is dedicated to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 ## [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
