@@ -21,35 +21,36 @@ When he's not pushing automation codes, he enjoys working out because staying he
 
 These are particularly interesting projects that he has/had worked on:
 
-### Consumer Watchdog: [CASE](https://www.case.org.sg/)
-> CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed the above configurations on a Cloud environment (Amazon Web Service) with elastic pay-perusage services.
+### [CASE](https://www.case.org.sg/) : Non-profit Organization
+<p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
 
-> Hardening on User Access Control to comply with Least Privilege Security Principle
-As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have proposed to strengthen user group level & review access management of both Price Kaki & Fuel Kaki CMS portals
+#### Scope of Services:
+<p>**Hardening on User Access Control with Least Privilege Security Principle**
+As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user group level & access management of both Price Kaki as well as Fuel Kaki CMS portals.</p>
 
-####Scope of Products
+####Scope of Products:
 > **[Fuel Kaki](https://fuelkaki.sg/home)** is fuel price comparison responsive website for motorist in Singapore.
 
 > **[Price Kaki](https://pricekaki.sg/)** mobile app to check the price of groceries and find out about available promotions.  
 
 
-### Travel Agency: [Chan Brothers Travel](https://www.chanbrothers.com/)
+### [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
 > Worked as technical project manager to deliver **[+en Travel Envoys](https://www.ttgasia.com/2018/10/10/chan-brothers-builds-and-grows-platform-for-independent-travel-agents/)** start-up programme, a network of independent travel agents with curated personalised experience.
 
 
-### FinTech Company: [Liquid Group](https://liquidpaygroup.com/)
+### [Liquid Group](https://liquidpaygroup.com/) : FinTech Startup 
 > Core payment API developer for **[Liquid Pay](https://liquidpaygroup.com/)** mobile apps enhancing payment experience & security between merchants and consumers.
 
 > Seamless switch of **[Spinelli Friends' Membership Card](https://spinellicoffee.com/)** from physical to digital version.
 
 
-### Travel Agency: [New Shan Travel](https://www.newshan.com/)
+### [New Shan Travel](https://www.newshan.com/) : Travel Agency
 > Worked as part of IT department of **New Shan Travel** organization to secure online payment gateway using 3DS, handle dispute resolution, and revitalize legacy systems.
 
 > API integration project with 3rd party hoteliers. Namely, HotelBeds, DOTW, and Expedia.
 
 
-### Software House: [Forest Concepts](https://www.forecepts.com)
+### [Forest Concepts](https://www.forecepts.com) : Software Development House
 > Online ordering and payment systems for **[BBQ Wholesale Centre](https://www.bbqwholesale.com/)**. It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market. 
 
 > Flight and hotel booking engine for **[Sabre Corporation](https://www.sabre.com/)**. Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region. 
