@@ -15,7 +15,7 @@ When he's not pushing through automation process, he enjoys working out because 
 
 <br/>
 
-# AWARDS & RECOGNITION
+# <a name="awards">AWARDS & RECOGNITION</a>
 Kelvin is proud to be recognized by some of the most important and influential organizations around the world:
 
 ## **Year 2022**
@@ -60,7 +60,7 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 
 <br/>
 
-# PORTFOLIO OF WORKS
+# <a name="portfolio">PORTFOLIO OF WORKS</a>
 These are particularly interesting projects that he has/had worked on:
 
 ## [CASE](https://www.case.org.sg/) : Non-profit Organization
