@@ -57,10 +57,10 @@ Scrum Developer Certified by *Scrum Alliance*
 ScrumMaster Certified by *Scrum Alliance*   
 
 ### **Year 2010**
-Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
+Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 <br/><br/><br/>
-## PORTFOLIO OF WORKS
 
+## PORTFOLIO OF WORKS
 These are particularly interesting projects that he has/had worked on:
 
 ### [CASE](https://www.case.org.sg/) : Non-profit Organization
@@ -79,22 +79,18 @@ These are particularly interesting projects that he has/had worked on:
 >        <li><strong>Price Kaki</strong> (<www.pricekaki.sg>) mobile app to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
-
 ### [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
 > Worked as technical project manager to deliver **[+en Travel Envoys](https://www.ttgasia.com/2018/10/10/chan-brothers-builds-and-grows-platform-for-independent-travel-agents/)** start-up programme, a network of independent travel agents with curated personalised experience.
-
 
 ### [Liquid Group](https://liquidpaygroup.com/) : FinTech Startup 
 > Core payment API developer for **[Liquid Pay](https://liquidpaygroup.com/)** mobile apps enhancing payment experience & security between merchants and consumers.
 
 > Seamless switch of **[Spinelli Friends' Membership Card](https://spinellicoffee.com/)** from physical to digital version.
 
-
 ### [New Shan Travel](https://www.newshan.com/) : Travel Agency
 > Worked as part of IT department of **New Shan Travel** organization to secure online payment gateway using 3DS, handle dispute resolution, and revitalize legacy systems.
 
 > API integration project with 3rd party hoteliers. Namely, HotelBeds, DOTW, and Expedia.
-
 
 ### [Forest Concepts](https://www.forecepts.com) : Software Development House
 > Online ordering and payment systems for **[BBQ Wholesale Centre](https://www.bbqwholesale.com/)**. It is one-stop BBQ online store & one of the largest Halal barbecue food caterers in Singapore market. 
@@ -103,8 +99,12 @@ These are particularly interesting projects that he has/had worked on:
 
 > Inventory management of **[Mountain Torq](https://www.mountaintorq.com)**. This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
 <br/><br/><br/>
+
 ## CONTACT
 <kelvin_tan@outlook.com>    
 <br/><br/><br/>
+
+---
+
 ## TRADEMARK DISCLAIMER
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement. This website uses cookies.
