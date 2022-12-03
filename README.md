@@ -1,4 +1,4 @@
-# VINTAT
+# www.jklvin.com
 
 ![KLVNT Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1665045053/undaunted5675/railway_spinelli_works_hehiwu.jpg "PROFILE PHOTO")
 
@@ -22,6 +22,12 @@ When he's not pushing automation codes, he enjoys working out because staying he
 These are particularly interesting projects that he has/had worked on:
 
 ### Consumer Watchdog: [CASE](https://www.case.org.sg/)
+> CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed the above configurations on a Cloud environment (Amazon Web Service) with elastic pay-perusage services.
+
+> Hardening on User Access Control to comply with Least Privilege Security Principle
+As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have proposed to strengthen user group level & review access management of both Price Kaki & Fuel Kaki CMS portals
+
+####Scope of Products
 > **[Fuel Kaki](https://fuelkaki.sg/home)** is fuel price comparison responsive website for motorist in Singapore.
 
 > **[Price Kaki](https://pricekaki.sg/)** mobile app to check the price of groceries and find out about available promotions.  
