@@ -16,6 +16,53 @@ He is currently working as a Technical Team Lead for **[Price Kaki](https://www.
 When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue. 
 
 
+
+## AWARDS & RECOGNITION
+
+Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his current verified abilities at [credly.com](https://www.credly.com/users/vintat/badges)
+
+### **Year 2022**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
+Power BI Data Analyst Certified by *Microsoft*  
+
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/azure-developer-associate-600x600_btpo6m.png" width="150"/>   
+Azure Developer Certified by *Microsoft*  
+
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/azure-administrator-associate-600x600_emplvn.png" width="150"/>   
+Azure Administrator Certified by *Microsoft*   
+
+### **Year 2021**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/aws-certified-solutions-architect-associate-600x600_jqdhdz.png" width="150"/>   
+Solutions Architect Associate Certified by *Amazon Web Services*  
+
+### **Year 2020**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/pmp-badge-600x600_t9wsvo.png" width="150"/>   
+PMP Certified by *Project Management Institute*     
+
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/certified-scrum-product-owner-600x600_vsju6g.png" width="150"/>   
+Scrum Product Owner Certified by *Scrum Alliance*  
+
+### **Year 2019**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860648/undaunted5675/azure-fundamental-600x600_etwsmg.png" width="150"/>   
+Azure Fundamentals by *Microsoft*  
+
+### **Year 2018**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664861872/undaunted5675/certified-advanced-scrum-developer-600x600_r6f5ht.png" width="150"/>   
+Advanced Scrum Developer Certified by *Scrum Alliance*  
+
+### **Year 2017**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860648/undaunted5675/certified-scrum-developer-600x600_mp5d8x.png" width="150"/>   
+Scrum Developer Certified by *Scrum Alliance*   
+
+### **Year 2016**
+<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860648/undaunted5675/certified-scrum-master-600x600_mnbowf.png" width="150"/>   
+ScrumMaster Certified by *Scrum Alliance*   
+
+### **Year 2010**
+Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
+
+
+
 ## PORTFOLIO OF WORKS
 
 These are particularly interesting projects that he has/had worked on:
@@ -23,37 +70,17 @@ These are particularly interesting projects that he has/had worked on:
 ### [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <strong>Scope of Services:</strong>
 > <ol>
-> <li><strong>Improved Security with Least Privilege Principle</strong>
->     - Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS.
->     - This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently.
-> </li>
-> <li><strong>Self-service Account Deactivation</strong>
-       - Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
-> </li>
- <li><strong>Optimized the B2B Partner Onboarding Process</strong>
-     <ul>
-       <li>Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic.</li>
-       <li>Based on my recommendations, these API functions have been compiled into an easy-to-navigate online document to ease integration & references.</li>
-     </ul>
- </li>
- <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>
-     <ul>
-       <li>Two read replica database servers were proposed to avoid single point of failure during traffic spikes.</li>
-       <li>Subsequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
-     </ul>
- </li>
- <li><strong>Centralized Online Dashboard</strong>
-     <ul>
-       <li>As part of data centralization efforts, I have developed and published online dashboard using Power BI tool.</li>
-       <li>Internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
-     </ul>
- </li>
- </ol>
+       > <li><strong>Improved Security with Least Privilege Principle</strong>. Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This is required to manage group membership and permissions across interdisciplinary teams more efficiently.</li>
+       > <li><strong>Self-service Account Deactivation</strong>. Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
+       > <li><strong>Optimized the B2B Partner Onboarding Process</strong>. Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. Based on my recommendations, these API functions have been compiled into an easy-to-navigate online document to ease integration & references.</li>
+       > <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>. Two read replica database servers were newly configured to avoid single point of failure during traffic spikes. Consequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
+       > <li><strong>Centralized Online Dashboard</strong>. Developed and published online dashboard using Power BI tool. Thus, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
+> </ol>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
-  <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
-  <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
+       > <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+       > <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 
@@ -79,52 +106,6 @@ These are particularly interesting projects that he has/had worked on:
 > Flight and hotel booking engine for **[Sabre Corporation](https://www.sabre.com/)**. Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region. 
 
 > Inventory management of **[Mountain Torq](https://www.mountaintorq.com)**. This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
-
-
-
-## AWARDS & RECOGNITION
-
-Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his current verified abilities at [credly.com](https://www.credly.com/users/vintat/badges)
-
-### **Year 2022**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
-Power BI Data Analyst Certified by *Microsoft*  
-
-### **Year 2021**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/aws-certified-solutions-architect-associate-600x600_jqdhdz.png" width="150"/>   
-Solutions Architect Associate Certified by *Amazon Web Services*  
-
-### **Year 2020**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/pmp-badge-600x600_t9wsvo.png" width="150"/>   
-PMP Certified by *Project Management Institute*     
-
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/certified-scrum-product-owner-600x600_vsju6g.png" width="150"/>   
-Scrum Product Owner Certified by *Scrum Alliance*  
-
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/azure-developer-associate-600x600_btpo6m.png" width="150"/>   
-Azure Developer Certified by *Microsoft*  
-
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/azure-administrator-associate-600x600_emplvn.png" width="150"/>   
-Azure Administrator Certified by *Microsoft*   
-
-### **Year 2019**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860648/undaunted5675/azure-fundamental-600x600_etwsmg.png" width="150"/>   
-Azure Fundamentals by *Microsoft*  
-
-### **Year 2018**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664861872/undaunted5675/certified-advanced-scrum-developer-600x600_r6f5ht.png" width="150"/>   
-Advanced Scrum Developer Certified by *Scrum Alliance*  
-
-### **Year 2017**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860648/undaunted5675/certified-scrum-developer-600x600_mp5d8x.png" width="150"/>   
-Scrum Developer Certified by *Scrum Alliance*   
-
-### **Year 2016**
-<img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860648/undaunted5675/certified-scrum-master-600x600_mnbowf.png" width="150"/>   
-ScrumMaster Certified by *Scrum Alliance*   
-
-### **Year 2010**
-Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
 
 
 
