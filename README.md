@@ -75,8 +75,8 @@ These are particularly interesting projects that he has/had worked on:
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
->        <li>[Fuel Kaki](https://www.fuelkaki.sg) is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
->        <li>Price Kaki](https://www.pricekaki.sg) mobile app is dedicated to check, track, and compare grocery prices in Singapore.</li>
+>        <li>Fuel Kaki <https://www.fuelkaki.sg> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+>        <li>Price Kaki <https://www.pricekaki.sg> mobile app is dedicated to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 ## [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
