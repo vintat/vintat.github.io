@@ -31,8 +31,12 @@ These are particularly interesting projects that he has/had worked on:
 > Designed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to securely delete their personal data and, consequently, no retention of user's personal data in the server.</p>
 > <p><strong>Shorten Partner's Onboarding Process with API</strong><br/>
 > Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. As part of the deliverable, these API capabilities have been fully compiled into an easy-to-navigate API document based on my advice to encourage continual improvement.</p>
-> <p><strong>Planned for Business Imperative via Read-replica DB Setup</strong><br/>
-> Two read replica database servers were proposed to avoid single point of failure during traffic spikes and, therefore, increase Price Kaki's computational power by nearly 200%. (This equates to three times current capability)</p>
+> <p><strong>Planned for Business Imperative via Read-Replica Setup</strong><br/>
+> Two read replica database servers were proposed to avoid single point of failure during traffic spikes.<br/>
+> This has increased Price Kaki's computational power by nearly 200%. (This equates to three times current capability)</p>
+> <p><strong>Centralized Online Dashboard</strong><br/>
+> As part of data centralization efforts, I have developed and published online dashboard using Power BI tool.<br/>
+> As a result, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</p>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
