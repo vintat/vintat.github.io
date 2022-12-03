@@ -21,12 +21,16 @@ When he's not pushing through automation process, he enjoys working out because 
 
 These are particularly interesting projects that he has/had worked on:
 
-> ### <strong>[CASE](https://www.case.org.sg/) : Non-profit Organization </strong>
+> ### [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
 >
 > <strong>Scope of Services:</strong>
-> <p><strong>Least Privilege Security Principle</strong><br/>
-> Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently.</p>
+> <ol>
+> <li><p><strong>Least Privilege Security Principle</strong>
+    <ul>
+      <li>Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS.</li>
+      <li>This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently</li>
+  </ul>
 > <p><strong>Self-service Account Deactivation</strong><br/>
 > Designed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to securely delete their personal data and, consequently, no retention of user's personal data in the server.</p>
 > <p><strong>Optimized the B2B Partner Onboarding Process</strong><br/>
@@ -38,6 +42,7 @@ These are particularly interesting projects that he has/had worked on:
 > <p><strong>Centralized Online Dashboard</strong><br/>
 > As part of data centralization efforts, I have developed and published online dashboard using Power BI tool.<br/>
 > As a result, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</p>
+> </ol>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
