@@ -23,37 +23,37 @@ These are particularly interesting projects that he has/had worked on:
 
 ### [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <strong>Scope of Services:</strong>
-> <ol>
-> <li><strong>Improved Security with Least Privilege Principle</strong>
-    > <ul>
-    >   <li>Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS.</li>
-    >   <li>This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently</li>
-    > </ul>
-> </li>
-> <li><strong>Self-service Account Deactivation</strong>
-    > <ul>
-    >   <li>Designed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
-    > </ul>
-> </li>
-> <li><strong>Optimized the B2B Partner Onboarding Process</strong>
-    > <ul>
-    >   <li>Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic.</li>
-    >   <li>Based on my recommendation, these API functions have been compiled into an easy-to-navigate online document to ease integration & references.</li>
-    > </ul>
-> </li>
-> <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>
-    > <ul>
-    >   <li>Two read replica database servers were proposed to avoid single point of failure during traffic spikes.</li>
-    >   <li>Subsequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
-    > </ul>
-> </li>
-> <li><strong>Centralized Online Dashboard</strong>
-    > <ul>
-    >   <li>As part of data centralization efforts, I have developed and published online dashboard using Power BI tool.</li>
-    >   <li>As a result, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
-    > </ul>
-> </li>
-> </ol>
+<ol>
+<li><strong>Improved Security with Least Privilege Principle</strong>
+    <ul>
+      <li>Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS.</li>
+      <li>This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently</li>
+    </ul>
+</li>
+<li><strong>Self-service Account Deactivation</strong>
+    <ul>
+      <li>Designed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
+    </ul>
+</li>
+<li><strong>Optimized the B2B Partner Onboarding Process</strong>
+    <ul>
+      <li>Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic.</li>
+      <li>Based on my recommendations, these API functions have been compiled into an easy-to-navigate online document to ease integration & references.</li>
+    </ul>
+</li>
+<li><strong>Planned for Business Imperative via Read-Replica Setup</strong>
+    <ul>
+      <li>Two read replica database servers were proposed to avoid single point of failure during traffic spikes.</li>
+      <li>Subsequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
+    </ul>
+</li>
+<li><strong>Centralized Online Dashboard</strong>
+    <ul>
+      <li>As part of data centralization efforts, I have developed and published online dashboard using Power BI tool.</li>
+      <li>Internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
+    </ul>
+</li>
+</ol>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
