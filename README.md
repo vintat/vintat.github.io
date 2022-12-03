@@ -29,8 +29,9 @@ These are particularly interesting projects that he has/had worked on:
 > Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently.</p>
 > <p><strong>Self-service Account Deactivation</strong><br/>
 > Designed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to securely delete their personal data and, consequently, no retention of user's personal data in the server.</p>
-> <p><strong>Shorten Partner's Onboarding Process with API</strong><br/>
-> Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. As part of the deliverable, these API capabilities have been fully compiled into an easy-to-navigate API document based on my advice to encourage continual improvement.</p>
+> <p><strong>Optimized the B2B Partner Onboarding Process</strong><br/>
+> Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic.<br/>
+> Based on my advice, these API functions have been compiled into an easy-to-navigate online document to ease integration & encourage continual improvements.</p>
 > <p><strong>Planned for Business Imperative via Read-Replica Setup</strong><br/>
 > Two read replica database servers were proposed to avoid single point of failure during traffic spikes.<br/>
 > This has increased Price Kaki's computational power by nearly 200%. (This equates to three times current capability)</p>
