@@ -21,7 +21,7 @@ When he's not pushing through automation process, he enjoys working out because 
 
 These are particularly interesting projects that he has/had worked on:
 
-> ### [CASE](https://www.case.org.sg/) : Non-profit Organization
+> ### <strong>[CASE](https://www.case.org.sg/) : Non-profit Organization </strong>
 > <p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
 >
 > <strong>Scope of Services:</strong>
