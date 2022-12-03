@@ -2,7 +2,7 @@
 ![KLVNT Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1665045053/undaunted5675/railway_spinelli_works_hehiwu.jpg "PROFILE PHOTO")
 
 
-# OVERVIEW
+# <a name="intro">OVERVIEW</a>
 Kelvin is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
 
 After earning his Hons Degree in Computer Science from University of Malaya [UM], he started working as Web Programmer in local software development company in Singapore, **[Forest Concepts](https://www.forecepts.com/)**. 
@@ -60,7 +60,7 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 
 <br/>
 
-# <a name="portfolio">PORTFOLIO OF WORKS</a>
+# <a name="works">PORTFOLIO OF WORKS</a>
 These are particularly interesting projects that he has/had worked on:
 
 ## [CASE](https://www.case.org.sg/) : Non-profit Organization
@@ -101,7 +101,7 @@ These are particularly interesting projects that he has/had worked on:
 
 <br/>
 
-# CONTACT
+# <a name="contact">CONTACT</a>
 Email: <kelvin_tan@outlook.com>    
 
 <br/>
