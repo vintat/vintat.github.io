@@ -25,12 +25,14 @@ These are particularly interesting projects that he has/had worked on:
 > <p>CASE organization is non-profit and budget conscious. To save initial investment, I recommended and deployed apps into Amazon Web Service with elastic pay-per-usage services.</p>
 >
 > <strong>Scope of Services:</strong>
-> <p><strong>Hardening on Users Access Control with Least Privilege Security Principle</strong><br/>
-> As internal team members increases in size, there is a greater need to manage group membership and permissions across interdisciplinary teams more efficiently. I have reviewed user's group level & access management of both Price Kaki & Fuel Kaki's CMS.</p>
-> <p><strong>Implementation of Self-service Account Deactivation</strong><br/>
-> I have proposed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to securely delete their personal data and, consequently, no retention of user's personal data in the server.<br/>
-> By taking cost saving into consideration the constrainst, I had defined & scope out the necessary functionality, mockup design, operating workflow, and development timeline.<br/>
-> After the budget proposal was accepted, I had prepared progress checkpoints to safeguard timely delivery and quality check the final deliverables. No major hiccups and this enhancement could completed within initial budget and schedule.</p>
+> <p><strong>Least Privilege Security Principle</strong><br/>
+> Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently.</p>
+> <p><strong>Self-service Account Deactivation</strong><br/>
+> Designed new self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to securely delete their personal data and, consequently, no retention of user's personal data in the server.</p>
+> <p><strong>Shorten Partner's Onboarding Process with API</strong><br/>
+> Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. As part of the deliverable, these API capabilities have been fully compiled into an easy-to-navigate API document based on my advice to encourage continual improvement.</p>
+> <p><strong>Planned for Business Imperative via Read-replica DB Setup</strong><br/>
+> Two read replica database servers were proposed to avoid single point of failure during traffic spikes and, therefore, increase Price Kaki's computational power by nearly 200%. (This equates to three times current capability)</p>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
