@@ -13,7 +13,7 @@ He is currently working as a Technical Team Lead for **[Price Kaki](https://www.
 
 When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue. 
 
-<br/>
+---
 
 # <a name="awards">AWARDS & RECOGNITION</a>
 Kelvin is proud to be recognized by some of the most important and influential organizations around the world:
@@ -58,7 +58,7 @@ ScrumMaster Certified by *Scrum Alliance*
 ## **Year 2010**
 Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 
-<br/>
+---
 
 # <a name="works">PORTFOLIO OF WORKS</a>
 These are particularly interesting projects that he has/had worked on:
@@ -99,12 +99,12 @@ These are particularly interesting projects that he has/had worked on:
 
 > Inventory management of **[Mountain Torq](https://www.mountaintorq.com)**. This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
 
-<br/>
+---
 
 # <a name="contact">CONTACT</a>
 Email: <kelvin_tan@outlook.com>    
 
-<br/>
+---
 
 # TRADEMARK DISCLAIMER
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement. This website uses cookies.
