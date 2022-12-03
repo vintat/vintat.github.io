@@ -14,9 +14,7 @@ Afterwards, he has a stint as API Software Engineer for mobile payment service a
 He is currently working as a Technical Team Lead for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
 
 When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue. 
-
-
-
+<br/><br/><br/>
 ## AWARDS & RECOGNITION
 
 Kelvin is proud to be recognized by some of the most important and influential organizations around the world. View his current verified abilities at [credly.com](https://www.credly.com/users/vintat/badges)
@@ -60,9 +58,7 @@ ScrumMaster Certified by *Scrum Alliance*
 
 ### **Year 2010**
 Dean's List, *[University of Malaya](https://www.um.edu.my/)*, MY
-
-
-
+<br/><br/><br/>
 ## PORTFOLIO OF WORKS
 
 These are particularly interesting projects that he has/had worked on:
@@ -70,17 +66,17 @@ These are particularly interesting projects that he has/had worked on:
 ### [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <strong>Scope of Services:</strong>
 > <ol>
-       > <li><strong>Improved Security with Least Privilege Principle</strong>. Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This is required to manage group membership and permissions across interdisciplinary teams more efficiently.</li>
-       > <li><strong>Self-service Account Deactivation</strong>. Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
-       > <li><strong>Optimized the B2B Partner Onboarding Process</strong>. Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. Based on my recommendations, these API functions have been compiled into an easy-to-navigate online document to ease integration & references.</li>
-       > <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>. Two read replica database servers were newly configured to avoid single point of failure during traffic spikes. Consequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
-       > <li><strong>Centralized Online Dashboard</strong>. Developed and published online dashboard using Power BI tool. Thus, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
+>       <li><strong>Improved Security with Least Privilege Principle</strong>. Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This is required to manage group membership and permissions across interdisciplinary teams more efficiently.</li>
+>       <li><strong>Self-service Account Deactivation</strong>. Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
+>       <li><strong>Optimized the B2B Partner Onboarding Process</strong>. Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. Based on my recommendations, these API functions have been compiled into an easy-to-navigate online document to ease integration & references.</li>
+>       <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>. Two read replica database servers were newly configured to avoid single point of failure during traffic spikes. Consequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
+>       <li><strong>Centralized Online Dashboard</strong>. Developed and published online dashboard using Power BI tool. Thus, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
 > </ol>
 > 
 > <strong>Scope of Products:</strong>
 > <ol>
-       > <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
-       > <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
+>        <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
+>        <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
 > </ol>
 
 
@@ -106,13 +102,9 @@ These are particularly interesting projects that he has/had worked on:
 > Flight and hotel booking engine for **[Sabre Corporation](https://www.sabre.com/)**. Formerly Abacus Intl, this organization is leading global distribution system (GDS) in the APAC region. 
 
 > Inventory management of **[Mountain Torq](https://www.mountaintorq.com)**. This organization manages the world's highest Via Ferrata in the UNESCO World Heritage Site of Mt Kinabalu in Sabah, Malaysia.
-
-
-
+<br/><br/><br/>
 ## CONTACT
 <kelvin_tan@outlook.com>    
-
-
-
+<br/><br/><br/>
 ## TRADEMARK DISCLAIMER
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement. This website uses cookies.
