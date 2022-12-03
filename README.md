@@ -13,8 +13,7 @@ Afterwards, he has a stint as API Software Engineer for mobile payment service a
 
 He is currently working as a Technical Team Lead for **[Price Kaki](https://www.facebook.com/pricekaki/)**, leading cross-functional teams in Development & Operation to leverage emerging technologies.
 
-When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue `#000080`. 
-
+When he's not pushing through automation process, he enjoys working out because staying healthy is a way of life for him. His favorite color is Navy Blue. 
 
 
 ## PORTFOLIO OF WORKS
@@ -24,17 +23,13 @@ These are particularly interesting projects that he has/had worked on:
 ### [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <strong>Scope of Services:</strong>
 > <ol>
- <li><strong>Improved Security with Least Privilege Principle</strong>
-     <ul>
-       <li>Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS.</li>
-       <li>This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently</li>
-     </ul>
- </li>
- <li><strong>Self-service Account Deactivation</strong>
-     <ul>
-       <li>Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
-     </ul>
- </li>
+> <li><strong>Improved Security with Least Privilege Principle</strong>
+>     - Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS.
+>     - This exercise is required to manage group membership and permissions across interdisciplinary teams more efficiently.
+> </li>
+> <li><strong>Self-service Account Deactivation</strong>
+       - Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete their personal data securely.</li>
+> </li>
  <li><strong>Optimized the B2B Partner Onboarding Process</strong>
      <ul>
        <li>Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic.</li>
@@ -59,7 +54,7 @@ These are particularly interesting projects that he has/had worked on:
 > <ol>
   <li><strong>Fuel Kaki</strong> is fuel price comparison website to check, track, and compare petrol prices in Singapore.</li>
   <li><strong>Price Kaki</strong> mobile app to check, track, and compare grocery prices in Singapore.</li>
-</ol>
+> </ol>
 
 
 ### [Chan Brothers Travel](https://www.chanbrothers.com/) : Travel Agency
