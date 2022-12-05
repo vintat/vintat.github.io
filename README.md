@@ -1,6 +1,6 @@
 # Just Kelv
 ![KLV Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1670214531/undaunted5675/IMG_20221118_160948_wnz1no.jpg "Kelv")
-
+_Variety is more than mere spice of life._
 
 # <a name="intro">OVERVIEW</a>
 Kelv is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
