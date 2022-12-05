@@ -67,10 +67,10 @@ These are particularly interesting projects that he has/had worked on:
 > <strong>Consulting Services:</strong>
 > <ol>
 >  <li><strong>Improved Security with Least Privilege Principle</strong>. Reviewed and hardened access management of both Price Kaki & Fuel Kaki's CMS. This is required to manage group membership and permissions across interdisciplinary teams more efficiently.</li>
->  <li><strong>Self-service Account Deactivation</strong>. Designed self-serive feature of "Account Deactivation" feature to give options for Price Kaki's users to delete personal data securely.</li>
+>  <li><strong>Self-service Account Deactivation</strong>. Designed self-service feature of "Account Deactivation" to give options for Price Kaki's users to securely delete personal data.</li>
 >  <li><strong>Optimized the B2B Partner Onboarding Process</strong>. Architected Price Kaki's Onboarding API design for future-proof and merchant agnostic. Based on his recommendations, these API functions have been compiled into an easy-to-navigate online document to ease future integration & promote continuous improvements.</li>
 >  <li><strong>Planned for Business Imperative via Read-Replica Setup</strong>. Two read replica database servers were newly configured to avoid single point of failure during traffic spikes. Consequently, this setup has increased Price Kaki's computational power by nearly 200%. (Equates to three times current capability)</li>
->  <li><strong>Centralized Online Dashboard</strong>. Developed and published online dashboard using Power BI tool. Thus, internal team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
+>  <li><strong>Centralized Online Dashboard</strong>. Designed, developed, and published online dashboard using Power BI. Thus, team members could access to insightful information from Price Kaki data collection and locate areas of improvements efficiently.</li>
 > </ol>
 > 
 > <strong>Scope of Products:</strong>
