@@ -1,9 +1,9 @@
-# Just Kelvin
-![KLVNT Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1665045053/undaunted5675/railway_spinelli_works_hehiwu.jpg "PROFILE PHOTO")
+# Just Kelv
+![KLV Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1670214531/undaunted5675/IMG_20221118_160948_wnz1no.jpg "Kelv")
 
 
 # <a name="intro">OVERVIEW</a>
-Kelvin is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
+Kelv is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
 
 After earning his Hons Degree in Computer Science from University of Malaya [UM], he started working as Web Programmer in local software development company in Singapore, **[Forest Concepts](https://www.forecepts.com/)**. 
 
@@ -16,7 +16,7 @@ When he's not pushing through automation process, he enjoys working out because 
 ---
 
 # <a name="awards">AWARDS & RECOGNITION</a>
-Kelvin is proud to be recognized by some of the most important and influential organizations around the world:
+Kelv is proud to be recognized by some of the most important and influential organizations around the world:
 
 ## **Year 2022**
 <img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
@@ -102,7 +102,7 @@ These are particularly interesting projects that he has/had worked on:
 ---
 
 # <a name="contact">CONTACT</a>
-Email: <kelvin_tan@outlook.com>    
+Email: <dmngmgywc@mozmail.com>    
 
 ---
 
