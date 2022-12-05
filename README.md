@@ -1,9 +1,9 @@
-# Just Kelv
+# JustKelv.
 ![KLV Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1670214531/undaunted5675/IMG_20221118_160948_wnz1no.jpg "Kelv") <br/>
 _Variety is more than mere spice of life._
 
 # <a name="intro">OVERVIEW</a>
-Kelv is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
+Kelv. is highly motivated by sense of fulfillment in his career. He has extensive technical work experience across various industries, namely: retail, e-commerce, cashless payments, and travel management. His bespoke automation tools halves operating cost and time.
 
 After earning his Hons Degree in Computer Science from University of Malaya [UM], he started working as Web Programmer in local software development company in Singapore, **[Forest Concepts](https://www.forecepts.com/)**. 
 
@@ -16,7 +16,7 @@ When he's not pushing through automation process, he enjoys working out because 
 ---
 
 # <a name="awards">AWARDS & RECOGNITION</a>
-Kelv is proud to be recognized by some of the most important and influential organizations around the world:
+Kelv. is proud to be recognized by some of the most important and influential organizations around the world:
 
 ## **Year 2022**
 <img src="https://res.cloudinary.com/dxoynol2n/image/upload/v1664860646/undaunted5675/power-bi-data-analyst-600x600_cf0vgs.png" width="150"/>   
@@ -61,7 +61,7 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 ---
 
 # <a name="works">PORTFOLIO OF WORKS</a>
-These are particularly interesting projects that he has/had worked on:
+Since 2011, Kelv. has worked on interesting projects with selected clients:
 
 ## [CASE](https://www.case.org.sg/) : Non-profit Organization
 > <strong>Consulting Services:</strong>
