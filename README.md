@@ -1,4 +1,4 @@
-# This is Kelv. 
+# Kelv's Work Portfolio
 ![KLV Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1670214531/undaunted5675/IMG_20221118_160948_wnz1no.jpg "Kelv") <br/>
 _Variety is more than mere spice of life._
 
@@ -60,7 +60,7 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 
 ---
 
-# <a name="works">PORTFOLIO OF WORKS</a>
+# <a name="works">SELECTED CLIENTS</a>
 Since 2011, Kelv. has worked on interesting projects with selected clients:
 
 ## [CASE](https://www.case.org.sg/) : Non-profit Organization
