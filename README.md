@@ -60,7 +60,7 @@ Dean's List, *[University of Malaya](https://www.um.edu.my/)*, Malaysia
 
 ---
 
-# <a name="works">SELECTED CLIENTS</a>
+# <a name="works">LIST OF PROJECTS</a>
 Since 2011, Kelv. has worked on interesting projects with selected clients:
 
 ## [CASE](https://www.case.org.sg/) : Non-profit Organization
