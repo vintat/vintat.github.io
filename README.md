@@ -1,4 +1,4 @@
-# Just Kelv. 
+# This is Kelv. 
 ![KLV Photo](https://res.cloudinary.com/dxoynol2n/image/upload/v1670214531/undaunted5675/IMG_20221118_160948_wnz1no.jpg "Kelv") <br/>
 _Variety is more than mere spice of life._
 
